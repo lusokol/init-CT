@@ -32,4 +32,5 @@ chsh -s /bin/zsh root
 apt autoremove -y
 apt clean
 
+zsh
 echo "Bootstrap terminé."
